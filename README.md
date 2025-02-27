@@ -17,9 +17,6 @@ A sleek and accurate magnetic compass built with React, TypeScript, and Tailwind
 - Modern, minimalist design
 - Responsive layout
 
-## Live Demo
-
-[View Live Demo](your-demo-url)
 
 ## Installation
 
