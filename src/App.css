@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  @apply bg-gradient-to-br from-slate-900 to-slate-800 text-white;
+}
+
+@theme{
+
+}
