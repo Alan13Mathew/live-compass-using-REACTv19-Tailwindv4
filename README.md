@@ -5,7 +5,7 @@ A sleek and accurate magnetic compass built with React, TypeScript, and Tailwind
 ![Compass Screenshot](https://github.com/user-attachments/assets/e8121efb-a989-453a-9de4-6410a99be54f)
 
 
-[compass](https://github.com/user-attachments/assets/17d34b07-03cc-40b7-9e95-d9ec90da1a53)
+[compass demo video](https://github.com/user-attachments/assets/17d34b07-03cc-40b7-9e95-d9ec90da1a53)
 
 
 ## Features
