@@ -25,7 +25,7 @@ A sleek and accurate magnetic compass built with React, TypeScript, and Tailwind
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/react-magnetic-compass.git
+git clone https://github.com/Alan13Mathew/live-compass-using-REACTv19-Tailwindv4.git
 ```
 
 2. Install dependencies:
@@ -126,9 +126,9 @@ Note: Accept the self-signed certificate when prompted in your browser.
 
 ## Tech Stack
 
-- React 18
+- React 19
 - TypeScript 5
-- Tailwind CSS 3
+- Tailwind CSS 4
 - Vite 4
 
 ## Deployment Checklist
